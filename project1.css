@@ -14,8 +14,8 @@ body{
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;
-    min-height: 45vh; 
-    width: 40vh;
+    min-height: 45%; 
+    width: 55%;
 }
 form{
     margin: 2rem 0 1rem 0;
